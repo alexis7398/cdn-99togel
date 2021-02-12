@@ -8,7 +8,7 @@ body {
 }
 
 .navbar-fixed-top {
-    background: rgba(23,32,71,0.5) !important;
+    background: rgba(104, 44, 60, 0.35) !important;
     max-width: 1170px;
     margin: auto;
 }
@@ -18,25 +18,25 @@ body {
 }
 
 .news-body {
-    background: rgba(23,32,71,0.5) !important;
-    border-bottom: 1px #0084dc solid;
+    background: rgba(104, 44, 60, 0.35) !important;
+    border-bottom: 1px #ff0000 solid;
     border-radius: 0px 0px 10px 0px;
 }
 
 ul.newsticker > li > a {
   text-transform:  uppercase !important;
-  color: #8dfbff;
+  color: #ffffff;
 }
 
 .news-head {
-    background: rgba(23,32,71,0.5) !important;
-    border-bottom: 1px #0084dc solid;
+    background: rgba(104, 44, 60, 0.35) !important;
+    border-bottom: 1px #ff0000 solid;
     border-radius: 0px 0px 0px 10px;
 }
 
 .news-head > h5 {
   text-transform:  uppercase !important;
-  color: #8dfbff !important;
+  color: #ffffff !important;
 }
 
 
@@ -181,14 +181,14 @@ footer#footer .footer-bottom {
 }
 
 footer#footer .footer-bottom .copyright {
-	border-top: 1px #0084dc solid !important;
+	border-top: 1px #ff0000 solid !important;
 	background: #08071fb8 !important;
     padding-top: 10px !important;
     padding-bottom: 10px !important;
 }
 
 .col-md-12 {
-	border-top: 1px #0084dc solid !important;
+	border-top: 1px #ff0000 solid !important;
     background: #111a2dc2 !important;
 }
 
@@ -426,8 +426,8 @@ button.btn-lg,
 }
 
 .results {
-    background: rgba(44, 76, 102, 0.35) !important; 
-    border-bottom: 1px #0080d8 solid; !important; /* W3C, IE 10+/ Edge, Firefox 16+, Chrome 26+, Opera 12+, Safari 7+ */
+    background: rgba(68, 44, 104, 0.35) !important; 
+    border-bottom: 1px #ff0000 solid; !important; /* W3C, IE 10+/ Edge, Firefox 16+, Chrome 26+, Opera 12+, Safari 7+ */
 
 }
 
@@ -465,7 +465,7 @@ thead th {
   border-bottom: 1px solid #323436 !important;
     border-bottom-width: 1px !important;
     border-bottom-style: solid !important;
-    border-bottom-color: rgb(0, 132, 220) !important;
+    border-bottom-color: rgb(255, 0, 0) !important;
 }
 .blog-sidebar .nav.menu > li > a > i {
   color: #e3c45d !important;
@@ -643,6 +643,14 @@ form .form-control:focus {
 }
 
 .gameicon .owl-wrapper-outer .owl-wrapper .owl-item:nth-child(37) {
+  content:url("../slider/99togel/99togel-COMIGSOON.png") !important;
+}
+
+.gameicon .owl-wrapper-outer .owl-wrapper .owl-item:nth-child(38) {
+  content:url("../slider/99togel/99togel-COMIGSOON.png") !important;
+}
+
+.gameicon .owl-wrapper-outer .owl-wrapper .owl-item:nth-child(39) {
   content:url("../slider/99togel/99togel-COMIGSOON.png") !important;
 }
 
