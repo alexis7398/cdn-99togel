@@ -1,0 +1,663 @@
+oh1, h2, h3, h4, h5, h6, .h1, .h2, .h3, .h4, .h5, .h6 > i {
+   text-shadow: -1px -1px 1px rgba(0, 0, 0, 0.53);
+}
+body {
+    background: #000000 url('../slider/99togel/99togel-BACKGROUND.jpg') center center no-repeat !important;
+    background-position: top !important;
+    background-attachment: fixed !important;
+}
+
+.navbar-fixed-top {
+    background: rgba(23,32,71,0.5) !important;
+    max-width: 1170px;
+    margin: auto;
+}
+
+.breadcrumbs {
+    padding: 40px 0 !important;
+}
+
+.news-body {
+    background: rgba(23,32,71,0.5) !important;
+    border-bottom: 1px #0084dc solid;
+    border-radius: 0px 0px 10px 0px;
+}
+
+ul.newsticker > li > a {
+  text-transform:  uppercase !important;
+  color: #8dfbff;
+}
+
+.news-head {
+    background: rgba(23,32,71,0.5) !important;
+    border-bottom: 1px #0084dc solid;
+    border-radius: 0px 0px 0px 10px;
+}
+
+.news-head > h5 {
+  text-transform:  uppercase !important;
+  color: #8dfbff !important;
+}
+
+
+.bank {
+	text-align: center;
+	width: 145px !important;
+    height: 74px !important;
+    padding: 0px !important;
+    background-color: rgba(0,0,0,0) !important;
+    border: none !important;
+    -webkit-border-radius: 0px !important;
+    -moz-border-radius: 0px !important;
+    -ms-border-radius: 0px !important;
+    -o-border-radius: 0px !important;
+    border-radius: 0px !important;
+    margin-left: 0px;
+}
+.bank img:first-child{
+    width: 12px !important;
+    display: inline-block;
+    vertical-align: middle;
+    margin-right: 13px;
+}
+
+.bca {
+width: 168px !important;
+  height: 94px !important;
+background: url('../slider/99togel/99togel-BANK-ONLINE-BCA.gif') 0px 0px no-repeat !important;
+}
+
+.mandiri {
+width: 168px !important;
+  height: 94px !important;
+background: url('../slider/99togel/99togel-BANK-ONLINE-MANDIRI.gif') 0px 0px no-repeat !important;
+}
+
+.bri {
+width: 168px !important;
+  height: 94px !important;
+background: url('../slider/99togel/99togel-BANK-ONLINE-BRI.gif') 0px 0px no-repeat !important;
+}
+
+.bni {
+width: 168px !important;
+  height: 94px !important;
+background: url('../slider/99togel/99togel-BANK-ONLINE-BNI.gif') 0px 0px no-repeat !important;
+}
+
+.danamon {
+width: 168px !important;
+  height: 94px !important;
+background: url('../slider/99togel/99togel-BANK-ONLINE-DANAMON.gif') 0px 0px no-repeat !important;
+}
+
+
+.bca.offline {
+width: 168px !important;
+  height: 94px !important;
+background: url('../slider/99togel/99togel-BANK-OFFLINE-BCA.gif') 0px 0px no-repeat !important;
+}
+
+.mandiri.offline {
+width: 168px !important;
+  height: 94px !important;
+background: url('../slider/99togel/99togel-BANK-OFFLINE-MANDIRI.gif') 0px 0px no-repeat !important;
+}
+
+.bri.offline {
+width: 168px !important;
+  height: 94px !important;
+background: url('../slider/99togel/99togel-BANK-OFFLINE-BRI.gif') 0px 0px no-repeat !important;
+}
+
+.bni.offline {
+width: 168px !important;
+  height: 94px !important;
+background: url('../slider/99togel/99togel-BANK-OFFLINE-BNI.gif') 0px 0px no-repeat !important;
+}
+
+.danamon.offline {
+width: 168px !important;
+  height: 94px !important;
+background: url('../slider/99togel/99togel-BANK-OFFLINE-DANAMON.gif') 0px 0px no-repeat !important;
+}
+
+.bca.trouble {
+    width: 168px !important;
+    height: 94px !important;
+    background: url('../slider/99togel/99togel-BANK-TROUBLE-BCA.gif') 0px 0px no-repeat !important;
+}
+
+.mandiri.trouble {
+    width: 168px !important;
+    height: 94px !important;
+background: url('../slider/99togel/99togel-BANK-TROUBLE-MANDIRI.gif') 0px 0px no-repeat !important;
+}
+
+.bri.trouble {
+    width: 168px !important;
+    height: 94px !important;
+background: url('../slider/99togel/99togel-BANK-TROUBLE-BRI.gif') 0px 0px no-repeat !important;
+}
+
+.bni.trouble {
+    width: 168px !important;
+    height: 94px !important;
+background: url('../slider/99togel/99togel-BANK-TROUBLE-BNI.gif') 0px 0px no-repeat !important;
+}
+
+.danamon.trouble {
+    width: 168px !important;
+    height: 94px !important;
+background: url('../slider/99togel/99togel-BANK-TROUBLE-DANAMON.gif') 0px 0px no-repeat !important;
+}
+
+.no-top-margin .uppercase {
+color: #e3c45d !important;
+
+}
+
+.col-3-x {
+  width: 33%;
+}
+
+.col-3 {
+  width: 33.33333%;
+}
+
+footer#footer {
+    background-color: transparent !important;
+    border-top: none;
+}
+
+footer#footer .footer-main {
+    padding: 0 0;
+    background: none;
+}
+
+footer#footer .footer-bottom {
+    background-color: transparent !important;
+    padding: 0px !important;
+}
+
+footer#footer .footer-bottom .copyright {
+	border-top: 1px #0084dc solid !important;
+	background: #08071fb8 !important;
+    padding-top: 10px !important;
+    padding-bottom: 10px !important;
+}
+
+.col-md-12 {
+	border-top: 1px #0084dc solid !important;
+    background: #111a2dc2 !important;
+}
+
+.section .container {
+    padding: 0 20px 0px 20px !important;
+	background: -webkit-linear-gradient(left, rgba(0, 0, 0, 0.44) 0%, rgba(0,0,0,0.3) 50%, rgba(0, 0, 0, 0.44) 100%) !important;
+}
+
+/***********************************/
+/************* BUTTONS *************/
+/***********************************/
+button.btn-theme, .btn.btn-theme {
+  border-width: 0 !important;
+  -webkit-transition: all 0.2s ease-out !important;
+  -moz-transition: all 0.2s ease-out !important;
+  transition: all 0.2s ease-out !important;
+  font-weight: 600 !important;
+  letter-spacing: 2px !important;
+    color: #ffffff !important;
+    padding: 7px 9px !important;
+    border-radius: 10px !important;
+    border: 1px solid #64d0e7 !important;
+    background: linear-gradient(to bottom, #3799ae 0%, #262643 50%, #3799ae 100%) !important;
+    text-shadow: -1px -1px 1px rgba(0,0,0,0.5) !important;
+}
+
+button.btn-theme:hover, .btn.btn-theme:hover {
+  color: #ffffff !important;
+  background-color: #11111d !important;
+  background: #11111d !important;
+}
+button.btn-small,
+.btn.btn-small {
+    border: 1px solid #64d0e7 !important;
+    background: linear-gradient(to bottom, #3799ae 0%, #262643 50%, #3799ae 100%) !important;
+    text-shadow: -1px -1px 1px rgba(0,0,0,0.5) !important;
+    color: #ffffff !important;
+}
+button.btn-small:hover,
+.btn.btn-small:hover {
+  color: #ffffff !important;
+  background-color: #11111d !important;
+  background: #11111d !important;
+}
+button.uppercase,
+.btn.uppercase {
+  text-transform: uppercase;
+  font-size: 14px;
+  font-weight: 400;
+}
+button.divided,
+.btn.divided {
+  border-top-right-radius: 0;
+  border-bottom-right-radius: 0;
+  padding-right: 15px;
+  border: 0;
+  position: relative;
+  -webkit-transition: all 0.15s ease-out;
+  -moz-transition: all 0.15s ease-out;
+  transition: all 0.15s ease-out;
+}
+button.divided .btn-side,
+.btn.divided .btn-side {
+  display: inline-block;
+  float: right;
+  background-color: #464646;
+  padding: 2px 10px;
+  position: absolute;
+  bottom: 0;
+  margin-left: 15px;
+  border-top-right-radius: 6px;
+  border-bottom-right-radius: 6px;
+  font-size: 26px;
+}
+button.divided:focus, button.divided:hover,
+.btn.divided:focus,
+.btn.divided:hover {
+  background-color: #464646;
+}
+button.btn-bordered,
+.btn.btn-bordered {
+  background-color: transparent;
+  border: 3px solid white;
+  color: white;
+  padding: 8px 30px;
+}
+button.btn-bordered:hover,
+.btn.btn-bordered:hover {
+  background-color: #418bca;
+  border-color: transparent;
+}
+button.btn-lg,
+.btn.btn-lg {
+  font-weight: 700;
+}
+
+.btn-group.custom-navigation {
+  margin: 30px 0 20px;
+}
+.btn-group.custom-navigation button,
+.btn-group.custom-navigation .btn,
+.btn-group.custom-navigation button:focus,
+.btn-group.custom-navigation .btn:focus {
+  background-color: white;
+  border: 1px solid #e6e6e6;
+}
+.btn-group.custom-navigation button i,
+.btn-group.custom-navigation .btn i,
+.btn-group.custom-navigation button:focus i,
+.btn-group.custom-navigation .btn:focus i {
+  color: #ffb400;
+}
+.btn-group.custom-navigation button:hover,
+.btn-group.custom-navigation .btn:hover,
+.btn-group.custom-navigation button:focus:hover,
+.btn-group.custom-navigation .btn:focus:hover {
+  background-color: #fff;
+  border-color: transparent;
+}
+.btn-group.custom-navigation button:hover i,
+.btn-group.custom-navigation .btn:hover i,
+.btn-group.custom-navigation button:focus:hover i,
+.btn-group.custom-navigation .btn:focus:hover i {
+  color: white;
+}
+
+.btn-group.custom-navigations {
+  margin: 30px 0 13px;
+}
+.btn-group.custom-navigations button,
+.btn-group.custom-navigations .btn,
+.btn-group.custom-navigations button:focus,
+.btn-group.custom-navigations .btn:focus {
+  background-color: #240900;
+  border: 1px solid #240900;
+}
+.btn-group.custom-navigations button i,
+.btn-group.custom-navigations .btn i,
+.btn-group.custom-navigations button:focus i,
+.btn-group.custom-navigations .btn:focus i {
+  color: #FFF;
+}
+.btn-group.custom-navigations button:hover,
+.btn-group.custom-navigations .btn:hover,
+.btn-group.custom-navigations button:focus:hover,
+.btn-group.custom-navigations .btn:focus:hover {
+  background-color: #0c1014;
+  border-color: transparent;
+}
+.btn-group.custom-navigations button:hover i,
+.btn-group.custom-navigations .btn:hover i,
+.btn-group.custom-navigations button:focus:hover i,
+.btn-group.custom-navigations .btn:focus:hover i {
+  color: #fff;
+}
+
+.btn-group.with-heading {
+  position: relative;
+  width: 100%;
+}
+.btn-group.with-heading h3 {
+  margin-bottom: 0 !important;
+}
+.btn-group.with-heading button,
+.btn-group.with-heading .btn {
+  position: absolute;
+  top: 0;
+}
+.btn-group.with-heading button:last-of-type,
+.btn-group.with-heading .btn:last-of-type {
+  right: 0;
+}
+.btn-group.with-heading button:first-of-type,
+.btn-group.with-heading .btn:first-of-type {
+  right: 28px;
+}
+.btn-group.circle-navigation button,
+.btn-group.circle-navigation .btn,
+.btn-group.circle-navigation button:focus,
+.btn-group.circle-navigation .btn:focus {
+  border: 0;
+  -webkit-border-radius: 50% !important;
+  -moz-border-radius: 50% !important;
+  -ms-border-radius: 50% !important;
+  -o-border-radius: 50% !important;
+  border-radius: 50% !important;
+  padding: 3px 10px;
+}
+.btn-group.circle-navigation button i,
+.btn-group.circle-navigation .btn i,
+.btn-group.circle-navigation button:focus i,
+.btn-group.circle-navigation .btn:focus i {
+  font-size: 18px;
+  color: #fff;
+  position: relative;
+  top: 1px;
+}
+.btn-group.circle-navigation button:last-of-type i,
+.btn-group.circle-navigation .btn:last-of-type i {
+  right: -1px;
+}
+.btn-group.circle-navigation button:first-of-type i,
+.btn-group.circle-navigation .btn:first-of-type i {
+  left: -1px;
+}
+
+.btn-group.circle-navigations button,
+.btn-group.circle-navigations .btn,
+.btn-group.circle-navigations button:focus,
+.btn-group.circle-navigations .btn:focus {
+  border: 0;
+  -webkit-border-radius: 50% !important;
+  -moz-border-radius: 50% !important;
+  -ms-border-radius: 50% !important;
+  -o-border-radius: 50% !important;
+  border-radius: 50% !important;
+  padding: 2px 6px;
+}
+.btn-group.circle-navigations button i,
+.btn-group.circle-navigations .btn i,
+.btn-group.circle-navigations button:focus i,
+.btn-group.circle-navigations .btn:focus i {
+  font-size: 18px;
+  color: #fff;
+  position: relative;
+  top: 1px;
+}
+.btn-group.circle-navigations button:last-of-type i,
+.btn-group.circle-navigations .btn:last-of-type i {
+  right: 0px;
+}
+.btn-group.circle-navigations button:first-of-type i,
+.btn-group.circle-navigations .btn:first-of-type i {
+  left: 0px;
+}
+
+.results {
+    background: rgba(44, 76, 102, 0.35) !important; 
+    border-bottom: 1px #0080d8 solid; !important; /* W3C, IE 10+/ Edge, Firefox 16+, Chrome 26+, Opera 12+, Safari 7+ */
+
+}
+
+.slider #progressBar #bar {
+  background: #717171 !important;
+}
+
+.results-number {
+    color: #e3c45d !important;
+}
+
+thead th {
+    background: #323436;
+        background-color: rgb(50, 52, 54);
+        background-image: none;
+        background-repeat: repeat;
+        background-attachment: scroll;
+        background-clip: border-box;
+        background-origin: padding-box;
+        background-position-x: 0%;
+        background-position-y: 0%;
+        background-size: auto auto;
+    color: #fff;
+}
+
+.blog-sidebar .sidebar-nav {
+    width: 265px !important;
+}
+
+.nav {
+    padding-left: 20px !important;
+}
+
+.blog-sidebar .nav.menu > li > a {
+  border-bottom: 1px solid #323436 !important;
+    border-bottom-width: 1px !important;
+    border-bottom-style: solid !important;
+    border-bottom-color: rgb(0, 132, 220) !important;
+}
+.blog-sidebar .nav.menu > li > a > i {
+  color: #e3c45d !important;
+}
+.blog-sidebar .nav.menu > li > a:hover > i {
+   color: #316d857a !important;
+    background: -webkit-linear-gradient(#dbaf1d, #eddda8) !important;
+    -webkit-background-clip: text !important;
+    -webkit-text-fill-color: transparent !important;
+}
+.blog-sidebar .nav.menu > li > a:hover, a:active, a:focus {
+  color: #FFF !important;
+  background: #316d857a !important;
+}
+
+.form-control {
+    color: #03A9F4 !important;
+}
+
+form .form-control {
+    background: #11111de6 !important;
+    border: 0.5px solid #0f1320 !important;
+}
+
+form .form-control:focus {
+	border-color: #4ec3d6  !important;
+}
+
+.scroll-top > a:hover {
+    background-color: #01304e !important;
+}
+
+.gameicon .owl-wrapper-outer .owl-wrapper .owl-item:nth-child(1) {
+  content:url("../slider/99togel/SINGAPORE%20POOLS.png") !important;
+}
+
+.gameicon .owl-wrapper-outer .owl-wrapper .owl-item:nth-child(2) {
+  content:url("../slider/99togel/HONGKONG%20POOLS.png") !important;
+}
+
+.gameicon .owl-wrapper-outer .owl-wrapper .owl-item:nth-child(3) {
+  content:url("../slider/99togel/SYDNEY%20POOLS.png") !important;
+}
+
+.gameicon .owl-wrapper-outer .owl-wrapper .owl-item:nth-child(4) {
+  content:url("../slider/99togel/CAMBODIA%20POOLS.png") !important;
+}
+
+.gameicon .owl-wrapper-outer .owl-wrapper .owl-item:nth-child(5) {
+  content:url("../slider/99togel/MAGNUM%204D%20POOLS.png") !important;
+}
+
+.gameicon .owl-wrapper-outer .owl-wrapper .owl-item:nth-child(6) {
+  content:url("../slider/99togel/TOTO%20MACAU.png") !important;
+}
+
+.gameicon .owl-wrapper-outer .owl-wrapper .owl-item:nth-child(7) {
+  content:url("../slider/99togel/ROULETTE.png") !important;
+}
+
+.gameicon .owl-wrapper-outer .owl-wrapper .owl-item:nth-child(8) {
+  content:url("../slider/99togel/SICBO%20DICE.png") !important;
+}
+
+.gameicon .owl-wrapper-outer .owl-wrapper .owl-item:nth-child(9) {
+  content:url("../slider/99togel/12D.png") !important;
+}
+
+.gameicon .owl-wrapper-outer .owl-wrapper .owl-item:nth-child(10) {
+  content:url("../slider/99togel/DICE%206.png") !important;
+}
+
+.gameicon .owl-wrapper-outer .owl-wrapper .owl-item:nth-child(11) {
+  content:url("../slider/99togel/99togel-24D.png") !important;
+}
+
+.gameicon .owl-wrapper-outer .owl-wrapper .owl-item:nth-child(12) {
+  content:url("../slider/99togel/24D%20SPIN.png") !important;
+}
+
+.gameicon .owl-wrapper-outer .owl-wrapper .owl-item:nth-child(13) {
+  content:url("../slider/99togel/ROULETTE%202.png") !important;
+}
+
+.gameicon .owl-wrapper-outer .owl-wrapper .owl-item:nth-child(14) {
+  content:url("../slider/99togel/BACCARAT.png") !important;
+}
+
+.gameicon .owl-wrapper-outer .owl-wrapper .owl-item:nth-child(15) {
+  content:url("../slider/99togel/POKER%20DICE.png") !important;
+}
+
+.gameicon .owl-wrapper-outer .owl-wrapper .owl-item:nth-child(16) {
+  content:url("../slider/99togel/SUWIT.png") !important;
+}
+
+.gameicon .owl-wrapper-outer .owl-wrapper .owl-item:nth-child(17) {
+  content:url("../slider/99togel/RED%20AND%20WHITE.png") !important;
+}
+
+.gameicon .owl-wrapper-outer .owl-wrapper .owl-item:nth-child(18) {
+  content:url("../slider/99togel/DRAGON%20TIGER.png") !important;
+}
+
+.gameicon .owl-wrapper-outer .owl-wrapper .owl-item:nth-child(19) {
+  content:url("../slider/99togel/OGLOK.png") !important;
+}
+
+.gameicon .owl-wrapper-outer .owl-wrapper .owl-item:nth-child(20) {
+  content:url("../slider/99togel/IDN%204%20STAND.png") !important;
+}
+
+.gameicon .owl-wrapper-outer .owl-wrapper .owl-item:nth-child(21) {
+  content:url("../slider/99togel/SICBO%20BALL.png") !important;
+}
+
+.gameicon .owl-wrapper-outer .owl-wrapper .owl-item:nth-child(22) {
+  content:url("../slider/99togel/HEAD%20&%20TAIL.png") !important;
+}
+
+.gameicon .owl-wrapper-outer .owl-wrapper .owl-item:nth-child(23) {
+  content:url("../slider/99togel/MONOPOLY.png") !important;
+}
+
+.gameicon .owl-wrapper-outer .owl-wrapper .owl-item:nth-child(24) {
+  content:url("../slider/99togel/5D%20BALL.png") !important;
+}
+
+.gameicon .owl-wrapper-outer .owl-wrapper .owl-item:nth-child(25) {
+  content:url("../slider/99togel/GONG%20BALL.png") !important;
+}
+
+.gameicon .owl-wrapper-outer .owl-wrapper .owl-item:nth-child(26) {
+  content:url("../slider/99togel/BILLIARD.png") !important;
+}
+
+.gameicon .owl-wrapper-outer .owl-wrapper .owl-item:nth-child(27) {
+  content:url("../slider/99togel/3D%20SHIO.png") !important;
+}
+
+.gameicon .owl-wrapper-outer .owl-wrapper .owl-item:nth-child(28) {
+  content:url("../slider/99togel/RACE%20BALL.png") !important;
+}
+
+.gameicon .owl-wrapper-outer .owl-wrapper .owl-item:nth-child(29) {
+  content:url("../slider/99togel/FANTAN.png") !important;
+}
+
+.gameicon .owl-wrapper-outer .owl-wrapper .owl-item:nth-child(30) {
+  content:url("../slider/99togel/NIU%20NIU.png") !important;
+}
+
+.gameicon .owl-wrapper-outer .owl-wrapper .owl-item:nth-child(31) {
+  content:url("../slider/99togel/99togel-COMIGSOON.png") !important;
+}
+
+.gameicon .owl-wrapper-outer .owl-wrapper .owl-item:nth-child(32) {
+  content:url("../slider/99togel/99togel-COMIGSOON.png") !important;
+}
+
+.gameicon .owl-wrapper-outer .owl-wrapper .owl-item:nth-child(33) {
+  content:url("../slider/99togel/99togel-COMIGSOON.png") !important;
+}
+
+.gameicon .owl-wrapper-outer .owl-wrapper .owl-item:nth-child(34) {
+  content:url("../slider/99togel/99togel-COMIGSOON.png") !important;
+}
+
+.gameicon .owl-wrapper-outer .owl-wrapper .owl-item:nth-child(35) {
+  content:url("../slider/99togel/99togel-COMIGSOON.png") !important;
+}
+
+.gameicon .owl-wrapper-outer .owl-wrapper .owl-item:nth-child(36) {
+  content:url("../slider/99togel/99togel-COMIGSOON.png") !important;
+}
+
+.gameicon .owl-wrapper-outer .owl-wrapper .owl-item:nth-child(37) {
+  content:url("../slider/99togel/99togel-COMIGSOON.png") !important;
+}
+
+.slider #progressBar #bar {
+  height: 0px !important;
+}
+
+a#highlight {
+    color: #fff;
+    animation: blur .9s ease-out infinite;
+    text-shadow: 0px 0px 1px #fff, 0px 0px 1px #fff;
+}
+
+@keyframes blur {
+    from {
+        text-shadow: 0px 0px 5px #fff, 0px 0px 5px #fff, 0px 0px 5px #fff, 0px 0px 5px #fff, 0px 0px 5px #fff, 0px 0px 5px #fff, 0px 0px 5px #fff, 0px 0px 25px #fff, 0px 0px 5px #fff, 0px 0px 5px #fff, 0px 0px 5px #7B96B8, 0px 0px 5px #7B96B8, 0px 10px 5px #7B96B8, 0px 10px 50px #7B96B8, 0px 10px 100px #7B96B8, 0px 10px 100px #7B96B8, 0px -10px 100px #7B96B8, 0px -10px 100px #7B96B8;
+    };
+}
